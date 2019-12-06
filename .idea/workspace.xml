@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b06c7a5-e200-4913-9832-40d3031fa348" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UbTxzem9bnpNW8EuA8HoR5IDEg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.ClientWindow">
+    <configuration name="ChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chat.server.ChatServer" />
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chat.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chat.client.ClientWindow" />
+      <module name="client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chat.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientWindow" />
+        <item itemvalue="Application.ChatServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b06c7a5-e200-4913-9832-40d3031fa348" name="Default Changelist" comment="" />
+      <created>1575624546224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575624546224</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="88" key="#Project_Structure" timestamp="1575654835123">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="88" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1575654835123" />
+    <state x="605" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1575656110623">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1575656110623" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1575734893236">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1575734893236" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1575734893236">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1575734893236" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1575734893236">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1575734893236" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1575734893236">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1575734893236" />
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1575731060934">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1575731060934" />
+    <state width="1557" height="276" key="GridCell.Tab.1.center" timestamp="1575731060934">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1575731060934" />
+    <state width="1557" height="276" key="GridCell.Tab.1.left" timestamp="1575731060934">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1575731060934" />
+    <state width="1557" height="276" key="GridCell.Tab.1.right" timestamp="1575731060934">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1575731060934" />
+    <state x="496" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1575732280788">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1575732280788" />
+    <state x="183" y="50" key="new project wizard" timestamp="1575624702601">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="183" y="50" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1575624702601" />
+    <state x="542" y="49" key="refactoring.ChangeSignatureDialog" timestamp="1575651944706">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="542" y="49" key="refactoring.ChangeSignatureDialog/0.0.1600.860@0.0.1600.860" timestamp="1575651944706" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1575656804766">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1575656804766" />
+  </component>
+</project>
